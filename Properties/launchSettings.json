@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "AzureFunctionEventHubTriggerMissingInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7041"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 33558,
+      "useSSL": false
+    }
+  }
+}
